@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">challenge2</string>
+    <string name="app_name">Bismillah</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_a" />
+    <string name="_0_vs_0" />
+    <string name="team_b" />
+    <string name="tanggal" />
 </resources>
